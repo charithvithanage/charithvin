@@ -3705,6 +3705,26 @@ h6 {
     margin-bottom: 40px;
 }
 
+.welcome_text_single_column {
+    margin-top: 45px;
+}
+
+.welcome_text_single_column h4 {
+    color: #222222;
+    font-family: "Heebo", sans-serif;
+    font-size: 36px;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+}
+
+.welcome_text_single_column p{
+    max-width: 100%;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    margin-bottom: 40px;
+} 
+
 .wel_item {
     border: 1px solid #eeeeee;
     padding: 30px 25px;
